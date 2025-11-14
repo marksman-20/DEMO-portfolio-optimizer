@@ -1,4 +1,4 @@
-# 📈 Kalpi Capital Portfolio Optimizer
+# 📈 DEMO Capital Portfolio Optimizer
 
 A production-ready portfolio optimization engine implementing **9 quantitative strategies**, built as part of the Quant Developer/Researcher assignment.
 
